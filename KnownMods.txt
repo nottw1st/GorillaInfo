@@ -62,5 +62,6 @@
   "GorillaShop": "Gorilla Shop",
   "DTASLOI": "DTASLOI";
   "DTCIB": "DTCIB";
-  "nametagsplusplus": "Bingus-Nametags++"
+  "nametagsplusplus": "Bingus-Nametags++";
+  "GorillaChatBox": "Gorilla Chat Box",
 }
